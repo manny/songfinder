@@ -1,0 +1,33 @@
+*{
+   /* border:2px dashed blue;*/
+
+}
+
+h2{
+    text-align:center;
+    color:black;
+    font-size:26px;
+    /*border:2px solid red; */
+}
+
+body{
+    background-color:white ;
+    margin: auto;
+    text-align: center;
+}
+a{
+    color:black;
+    text-align:center;
+    text-decoration: none;
+}
+a:hover{
+color:red;
+}
+#uploadForm{
+    margin-top:20px;
+}
+
+/*img:hover{
+    opacity:0.25; 
+}*/
+
